@@ -4,22 +4,20 @@
 
 ## Table of Contents
 
-* [Afterlife Enterprise: Vision]()
-* [Introduction to Futurology]()
-* [Projects]()
-    * [Neurological Imaging]()
-    * [Neurological Simulation]()
-    * [Will-Chain]()
-        * [Neurological Signature]()
-    * [Cerecredit]()
-        * [Minting]()
-        * [Economics]()
-* [Funding]()
-    * []()
-* [Schedule]()
-    * [Initial Coin Offering (ICO)]()
-    * [Technological Progress]()
-    * []()
+* [Afterlife Enterprise: Vision](#Afterlife-Enterprise:-Vision)
+* [Introduction to Futurology](#Introduction-to-Futurology)
+* [Projects](#Projects)
+    * [Neurological Imaging](#Neurological-Imaging)
+    * [Neurological Simulation](#Neurological-Simulation)
+    * [Will-Chain](#Will-Chain)
+        * [Neurological Signature](#Neurological-Signature)
+    * [Cerecredit](#Cerecredit)
+        * [Minting](#Minting)
+        * [Economics](#Economics)
+* [Funding](#Funding)
+* [Schedule](#Schedule)
+    * [Initial Coin Offering (ICO)](#Initial-Coin-Offering)
+    * [Technological Progress](#Technological-Progress)
     
 ## Afterlife Enterprise: Vision
 
