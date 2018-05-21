@@ -1,6 +1,6 @@
 # The Afterlife Enterprise
 
-![](assets/images/logo.png)
+<!-- ![](assets/images/logo.png) -->
 
 ## Table of Contents
 
